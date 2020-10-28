@@ -7,3 +7,5 @@ The step-by-step process involved in completing this task should be documented.
 5. Add js files corresponding to about blog contact home
 6. Styled the pages
 7. Add "update and delete" functionality to articles
+
+https://github.com/je-hyun/SimplyBlogging/commits/main
