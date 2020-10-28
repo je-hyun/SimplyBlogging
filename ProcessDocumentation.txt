@@ -6,3 +6,4 @@ The step-by-step process involved in completing this task should be documented.
 4. Add all html files (about, blog, contact, home), and create a custom template to reuse between pages (gitignored)
 5. Add js files corresponding to about blog contact home
 6. Styled the pages
+7. Add "update and delete" functionality to articles
